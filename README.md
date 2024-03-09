@@ -1,3 +1,7 @@
+<div style="text-align:center;">
+    <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhZ2UiLCJ0ZXh0IjoieEtoYW4lMjBEZXYlMjAoTGVhcm5pbmclMjBCbG9ja2NoYWluJTIwYW5kJTIwRnVsbFN0YWNrKSIsImlhdCI6MTcxMDAwMzgwOX0.qlukgA619enHYvLwBT3Y5-dH0yT9t98Ze3oRjyxkR3g&cid=a559de6bab3b7c687be1ce1c1550fa432ecad79cc4a0f0f7&dynamic_style=rage&ep=v1_text_animate&rid=giphy.gif&ct=t" alt="xKhanDev Gif" st>
+</div>
+
 # Hi there, I'm Safeer Ullah Khan! 👋
 
 I'm a passionate frontend web developer with expertise in HTML5, CSS3, JavaScript, ReactJS, and Tailwind CSS. Additionally, I have a strong interest and experience in blockchain technologies such as EthereumJS, Solidity, and decentralized applications (dApps). I'm currently working as a frontend developer online/freelance, aiming to become a successful full-stack blockchain developer.
