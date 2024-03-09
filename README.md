@@ -21,7 +21,7 @@ Let's connect and collaborate! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/safeer-khan-x/)
 - [Twitter](https://twitter.com/SafeerKhanDev)
-- [GitHub](https://github.com/safeer-dev)
+- [GitHub](https://github.com/xKhanDev)
 
 Feel free to reach out for any queries, discussions, or just to say hi! 😊
 
