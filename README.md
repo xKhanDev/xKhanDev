@@ -1,31 +1,33 @@
-<div style="text-align:center;">
-    <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhZ2UiLCJ0ZXh0IjoieEtoYW4lMjBEZXYlMjAoTGVhcm5pbmclMjBCbG9ja2NoYWluJTIwYW5kJTIwRnVsbFN0YWNrKSIsImlhdCI6MTcxMDAwMzgwOX0.qlukgA619enHYvLwBT3Y5-dH0yT9t98Ze3oRjyxkR3g&cid=a559de6bab3b7c687be1ce1c1550fa432ecad79cc4a0f0f7&dynamic_style=rage&ep=v1_text_animate&rid=giphy.gif&ct=t" alt="xKhanDev Gif" st>
-</div>
+<h1 align="center">Hi 👋, I'm Safeer Khan</h1>
+<h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-# Hi there, I'm Safeer Ullah Khan! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkhandev&label=Profile%20views&color=0e75b6&style=flat" alt="xkhandev" /> </p>
 
-I'm a passionate frontend web developer with expertise in HTML5, CSS3, JavaScript, ReactJS, and Tailwind CSS. Additionally, I have a strong interest and experience in blockchain technologies such as EthereumJS, Solidity, and decentralized applications (dApps). I'm currently working as a frontend developer online/freelance, aiming to become a successful full-stack blockchain developer.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xkhandev" alt="xkhandev" /></a> </p>
 
-## About Me
+- 🔭 I’m currently Learning **Backend development(MERN)**
 
-- 🎓 Undergraduate student of Software Engineering at the University of Science and Technology, Bannu, KPK, Pakistan.
-- 💻 Love learning new technologies and exploring innovative solutions.
-- 🌱 Currently exploring the realms of blockchain technology and decentralized applications.
-- 🚀 Looking forward to contributing to open-source projects and collaborating with like-minded individuals.
+- 🌱 I’m currently learning **NodeJs,ExpressJs,MongoDB,Mongoose,Solidity,Blockchain and Dapps**
 
-## Skills
+- 👯 I’m looking to collaborate on **Frontend & Backend Projects**
 
-- Frontend Development: HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS
-- Blockchain Technologies: EthereumJS, Solidity
-- Tools & Technologies: Git, GitHub, VS Code
+- 🤝 I’m looking for help with **ReactJs,SPA Web Applicationss**
 
-## Connect with Me
+- 💬 Ask me about **reactjs,Tailwind,html,css,javascript**
 
-Let's connect and collaborate! You can find me on:
+- 📫 How to reach me **safeerkhanxofficial@gmail.com**
 
-- [LinkedIn](https://www.linkedin.com/in/safeer-khan-x/)
-- [Twitter](https://twitter.com/SafeerKhanDev)
-- [GitHub](https://github.com/xKhanDev)
+- ⚡ Fun fact **I'm Memes and Anime Lover**
 
-Feel free to reach out for any queries, discussions, or just to say hi! 😊
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/safeer-khan-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safeer-khan-x" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23359742/safeer-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23359742/safeer-khan" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkhandev&show_icons=true&locale=en&layout=compact" alt="xkhandev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xkhandev&show_icons=true&locale=en" alt="xkhandev" /></p>
