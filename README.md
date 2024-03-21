@@ -1,33 +1,131 @@
-<h1 align="center">Hi 👋, I'm Safeer Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h2 align="left">Hi 👋! My name is Safeer Ullah Khan and I'm a Expert in Frontend(reactJs)</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xkhandev&label=Profile%20views&color=0e75b6&style=flat" alt="xkhandev" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xkhandev" alt="xkhandev" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xKhanDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xKhanDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently Learning **Backend development(MERN)**
+###
 
-- 🌱 I’m currently learning **NodeJs,ExpressJs,MongoDB,Mongoose,Solidity,Blockchain and Dapps**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="30" alt="mocha logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
-- 👯 I’m looking to collaborate on **Frontend & Backend Projects**
+###
 
-- 🤝 I’m looking for help with **ReactJs,SPA Web Applicationss**
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlyZGxoMmZ5bGNsczU5MzIybW02czBodTNkdWhqYTJnbWk4bTN5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif"  />
 
-- 💬 Ask me about **reactjs,Tailwind,html,css,javascript**
+###
 
-- 📫 How to reach me **safeerkhanxofficial@gmail.com**
+<div align="left">
+  <a href="https://stackoverflow.com/users/23359742/safeer-khan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="safeerkhanxofficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/safeer-khan-x/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/03449441404" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
-- ⚡ Fun fact **I'm Memes and Anime Lover**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/safeer-khan-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safeer-khan-x" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23359742/safeer-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23359742/safeer-khan" height="30" width="40" /></a>
-</p>
+<h1 align="left">Welcome to My Profile! 🚀</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkhandev&show_icons=true&locale=en&layout=compact" alt="xkhandev" /></p>
+<h2 align="left">Expert Frontend Developer & Blockchain Enthusiast</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xkhandev&show_icons=true&locale=en" alt="xkhandev" /></p>
+###
+
+<h3 align="left">About Me</h3>
+
+###
+
+<p align="left">Hey there! 👋 I'm an experienced frontend developer with a passion for crafting engaging user experiences and exploring the exciting world of blockchain technology. My journey in web development began with HTML5, CSS3, and JavaScript, and I've since honed my skills in various modern frameworks like ReactJS. But that's not all – I've also delved into the realm of blockchain development, specializing in Ethereum with proficiency in Solidity, EtherJS, Hardhat, and DApps.</p>
+
+###
+
+<h3 align="left">What I Bring to the Table</h3>
+
+###
+
+<h4 align="left">HTML5, CSS3, JavaScript:</h4>
+
+###
+
+<p align="left">As the building blocks of the web, I'm well-versed in creating clean, semantic markup and styling it to perfection with CSS. JavaScript is my go-to for interactivity and dynamic functionality.</p>
+
+###
+
+<h4 align="left">ReactJS:</h4>
+
+###
+
+<p align="left">I love building dynamic, responsive, and scalable web applications with ReactJS. From single-page applications to complex UIs, React is my playground.</p>
+
+###
+
+<h4 align="left">Blockchain Development:</h4>
+
+###
+
+<p align="left">Ethereum is where I thrive! From writing smart contracts in Solidity to integrating blockchain functionality into applications with EtherJS, I'm passionate about decentralization and its endless possibilities.</p>
+
+###
+
+<h4 align="left">Tailwind CSS:</h4>
+
+###
+
+<p align="left">Efficiency meets flexibility with Tailwind CSS. I leverage its utility-first approach to streamline my frontend development workflow and create stunning designs with ease.</p>
+
+###
+
+<h3 align="left">What's Next?</h3>
+
+###
+
+<p align="left">I'm currently expanding my skill set into backend development. 🚀 I'm diving deep into Node.js, Express.js, and MongoDB to round out my full-stack capabilities. This journey into backend development opens up new horizons for me to build robust, scalable, and secure web applications from end to end.</p>
+
+###
+
+<h3 align="left">Let's Connect!</h3>
+
+###
+
+<p align="left">I'm always eager to collaborate on exciting projects, discuss new technologies, or simply geek out over code. Whether you're looking for a frontend wizard, a blockchain enthusiast, or a budding backend developer, I'm here to bring your ideas to life!</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/xKhanDev/xKhanDev/output/snake.svg" alt="Snake animation" />
+
+###
