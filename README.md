@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce my
 ## ✨ Let's Connect
 
 - 💻 [GitHub](https://github.com/xKhanDev)
-- 📧 Email: [safeerkhanxofficialexample.com](mailto:safeerkhanxofficial@example.com)
-- 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link.com)
+- 📧 Email: [safeerkhanxofficial@gmail.com](mailto:safeerkhanxofficial@example.com)
+- 🌐 Portfolio: (https://safeerxkhan.netlify.app/)
 
 ---
 
