@@ -1,4 +1,4 @@
-# Hi there, I'm Safeer Ullah (a.k.a. xKhandev) 😂
+# Hi there, I'm Safeer Ullah 😂
 
 Welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce myself:
 
